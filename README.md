@@ -1,2 +1,2 @@
 # mahjong
-server & client
+Server & Client souce code
